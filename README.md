@@ -9,7 +9,7 @@
 #
 
 <p>
-  👨‍💻 Desenvolvedor Front-end com foco em <strong>React</strong>, <strong>TypeScript</strong> e <strong>Redux</strong>.  
+  🧑🏻‍💻 Desenvolvedor Front-end com foco em <strong>React</strong>, <strong>TypeScript</strong> e <strong>Redux</strong>.  
   Apaixonado por estar sempre aprendendo novas tecnologias. 🚀  
   Atualmente desenvolvendo projetos como <strong>Jorge Plantas</strong> e <strong>Coffee Delivery</strong>,  
   buscando evoluir constantemente como dev. 🌱  
