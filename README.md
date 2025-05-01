@@ -90,7 +90,7 @@
   title="Tailwind CSS"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+  src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
 <br/>
