@@ -3,20 +3,20 @@
 <p align="center">
   <strong><code>Desenvolvedor Junior</code></strong> |
   <strong><code>Cursando Análise e Desenvolvimento de Sistemas</code></strong> |
-  <strong><code>Foco em React + Typescript</code></strong>
+  <strong><code>Foco em Next.js (React) + Typescript</code></strong>
 </p>
 
 #
 
 <p>
-  🧑🏻‍💻 Desenvolvedor Front-end com foco em <strong>React</strong>, <strong>TypeScript</strong> e <strong>Redux</strong>.  
+  🧑🏻‍💻 Desenvolvedor Front-end com foco em <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong> e <strong>Redux</strong>.  
   Apaixonado por estar sempre aprendendo novas tecnologias. 🚀  
-  Atualmente desenvolvendo projetos como <strong>Jorge Plantas</strong> e <strong>Coffee Delivery</strong>,  
+  Atualmente desenvolvendo projetos como <strong>Jorge Plantas</strong> e <strong>Busca-cep.next</strong>,  
   buscando evoluir constantemente como dev. 🌱  
   🔄 Com o tempo, pretendo me tornar <strong>Desenvolvedor Fullstack</strong>, explorando  
   <strong>Python</strong> e/ou <strong>Node.js</strong> no back-end.
 </p>
-<p>Estou buscando uma oportunidade de iniciar na área de desenvolvimento, colocar em prática minhas habilidades adquiridas e continuar aprendendo mais. Tenho grande interesse em evoluir como profissional e contribuir para projetos desafiadores, aplicando meu conhecimento em tecnologias como React, TypeScript e Redux, e expandindo minhas habilidades para outras áreas como o desenvolvimento Fullstack.</p>
+<p>Estou buscando uma oportunidade de iniciar na área de desenvolvimento, colocar em prática minhas habilidades adquiridas e continuar aprendendo mais. Tenho grande interesse em evoluir como profissional e contribuir para projetos desafiadores, aplicando meu conhecimento em tecnologias como Next.js, React, TypeScript e Redux/Zustand, e expandindo minhas habilidades para outras áreas como o desenvolvimento Fullstack.</p>
 
 ## 🤖 Linguagens e Tecnologias
 
