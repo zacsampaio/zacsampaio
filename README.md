@@ -1,7 +1,7 @@
 # <p align="center">Seja bem-vindo(a) ao meu GitHub! 🖥️</p>
 
 <p align="center">
-  <strong><code>Desenvolvedor Junior</code></strong> |
+  <strong><code>Desenvolvedor Front-end</code></strong> |
   <strong><code>Cursando Análise e Desenvolvimento de Sistemas</code></strong> |
   <strong><code>Foco em Next.js (React) + Typescript</code></strong>
 </p>
