@@ -10,13 +10,13 @@
 
 <p>
   🧑🏻‍💻 Desenvolvedor Front-end com foco em <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong> e <strong>Redux</strong>.  
-  Apaixonado por estar sempre aprendendo novas tecnologias. 🚀  
-  Atualmente desenvolvendo projetos como <strong>med.app</strong>,  
-  buscando evoluir constantemente como dev. 🌱  
-  🔄 Com o tempo, pretendo me tornar <strong>Desenvolvedor Fullstack</strong>, explorando  
-  <strong>Python</strong> e/ou <strong>Node.js</strong> no back-end.
+  Apaixonado por estar sempre aprendendo novas tecnologias. 
+
+  🚀 Atualmente, atuo prestando serviços como desenvolvedor Front-end, com o intuito de adquirir mais experiências, buscando evoluir constantemente como dev.
+
+  🔄 Meu objetivo a médio prazo é me tornar um <strong>Desenvolvedor Fullstack</strong>, explorando o universo do back-end com <strong>Node.js</strong> e/ou <strong>Python</strong>. </p>
 </p>
-<p>Estou buscando uma oportunidade de iniciar na área de desenvolvimento, colocar em prática minhas habilidades adquiridas e continuar aprendendo mais.</p>
+
 
 ## 🤖 Linguagens e Tecnologias
 
