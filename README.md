@@ -1,20 +1,20 @@
 # <p align="center">Seja bem-vindo(a) ao meu GitHub! 🖥️</p>
 
 <p align="center">
-  <strong><code>Desenvolvedor Front-end</code></strong> |
+  <strong><code>Desenvolvedor</code></strong> |
   <strong><code>Cursando Análise e Desenvolvimento de Sistemas</code></strong> |
-  <strong><code>Foco em Next.js (React) + Typescript</code></strong>
+  <strong><code>Atuação com Front-end (Next.js/React) e soluções em Python</code></strong>
 </p>
 
 #
 
 <p>
-  🧑🏻‍💻 Desenvolvedor Front-end com foco em <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong> e <strong>Redux</strong>.  
-  Apaixonado por estar sempre aprendendo novas tecnologias. 
+  🧑🏻‍💻 Desenvolvedor com foco em <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong> e uso de <strong>Python</strong> para automação, integrações e aplicações desktop.
+  Sempre buscando aprender e aplicar tecnologia em problemas reais.
 
-  🚀 Atualmente, atuo prestando serviços como desenvolvedor Front-end, com o intuito de adquirir mais experiências, buscando evoluir constantemente como dev.
+  🚀 No momento, estou atuando principalmente no desenvolvimento de aplicações desktop em <strong>Python</strong> para gestão de serviços imobiliários e Desenvolvimento de Aplicativos web em Next.js/React.
 
-  🔄 Meu objetivo a médio prazo é me tornar um <strong>Desenvolvedor Fullstack</strong>, explorando o universo do back-end com <strong>Node.js</strong> e/ou <strong>Python</strong>. </p>
+  🔄 Meu objetivo a médio prazo é consolidar o perfil de <strong>Desenvolvedor Fullstack</strong>, unindo a experiência em Front-end com soluções robustas em back-end e automação com <strong>Python</strong>. 
 </p>
 
 
@@ -62,11 +62,19 @@
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Next.js" 
+    title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind CSS" 
+    title="Tailwind CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
@@ -78,24 +86,15 @@
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Tailwind CSS" 
-  title="Tailwind CSS"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>
 <br/>
-
 
 ### 📊 Estatísticas
 <p align="center">
