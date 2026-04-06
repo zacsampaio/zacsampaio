@@ -97,6 +97,8 @@
 <br/>
 
 ### 📊 Estatísticas
-<p align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacsampaio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+<img align="left" width="485"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=zacsampaio&show_icons=true&theme=tokyonight&include_all_commits=true" />
+
+<img align="right" width="388"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zacsampaio&layout=compact&theme=tokyonight&locale=pt-br" />
