@@ -97,8 +97,8 @@
 <br/>
 
 ### 📊 Estatísticas
-<img align="left" width="485"
+<img align="left" width="420"
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=zacsampaio&show_icons=true&theme=tokyonight&include_all_commits=true" />
 
-<img align="right" width="388"
+<img align="right" width="330"
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zacsampaio&layout=compact&theme=tokyonight&locale=pt-br" />
